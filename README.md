@@ -1,5 +1,4 @@
 # nc-state-dsi-data-visualization-course
-https://perma.cc/4B6A-XQUD
 
 Visualization Tools used in this course:
 
